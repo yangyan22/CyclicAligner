@@ -1,0 +1,11 @@
+torch
+torchvision
+SimpleITK
+h5py
+tqdm
+pandas
+matplotlib
+tensorboard
+info-nce-pytorch
+einops
+timm==0.5.4
