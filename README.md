@@ -13,13 +13,13 @@ CyclicAligner adopts a novel cyclical training paradigm with four tightly couple
 
 ---
 
-## Overall Framework of CyclicAligner
+## 🎯 Overall Framework of CyclicAligner
 
 ![Framework](./image/CyclicAligner.jpg)
 
 ---
 
-## Datasets
+## 📊 Datasets
 
 - **MIMIC-CXR:**  
   Please download from https://physionet.org/content/mimic-cxr-jpg/2.0.0/ with your account being *credentialed*.
@@ -29,7 +29,7 @@ CyclicAligner adopts a novel cyclical training paradigm with four tightly couple
 
 ---
 
-## Environment and Installation
+## 🔧 Environment and Installation
 
 **Python:** `3.9.23`  
 **PyTorch:** `2.7.1+cu126`
@@ -46,9 +46,8 @@ If you find our codes useful in your research, please cite our paper:
 ```
 @inproceedings{CyclicAligner,
   title={CyclicAligner: Knowledge-Enhanced Cyclical Alignment for Chest X-ray Report Generation},
-  author={Fu, Zhenqi and Yang, Yan and Tu, Xiaotong and Huang, Yue and Ding, Xinghao and Ma, Kai-Kuang},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={22252--22261},
-  year={2023}
+  author={Jiamei Sun and Pengbo Wang and Ke Zhang and Xiangyu Tan and Zhenqi Fu and Yan Yang},
+  booktitle  = {{IEEE} International Conference on Bioinformatics and Biomedicine, 2025},
+  year={2025}
 }
 ```
